@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amirghasemian22
+- 👋 Hi, I’m Amir
 - 🎓 I'm Computer Engineering student
 - 🪪 I'm 21
 - 👀 I’m interested in Programming , AI , Computer and anything about technology
